@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malikhafaji
-- 👀 I’m interested in computer graphics and computational design
+- 👀 I’m interested in Computer Graphics and Computational Design
 - 🌱 I’m currently working with Grasshopper3D, Python, C#, and JavaScript
 - 📫 How to reach me: info@khafaji.ir
 
